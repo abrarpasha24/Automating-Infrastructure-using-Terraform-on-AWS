@@ -7,6 +7,8 @@ In this project, I have utilized Terraform to deploy an architectire on AWS, con
 
 ![3](https://github.com/abrarpasha24/Automating-Infrastructure-using-Terraform-on-AWS/assets/30976576/6559392d-0bae-47c5-b37f-997997a61e50)
 
+<h1>Load-Balanced EC2 Instances</h1>
+
 ![1](https://github.com/abrarpasha24/Automating-Infrastructure-using-Terraform-on-AWS/assets/30976576/0fcdaff3-3ac1-4f65-9c8e-7eee62c6028f)
 
 ![2](https://github.com/abrarpasha24/Automating-Infrastructure-using-Terraform-on-AWS/assets/30976576/cd3babf6-58fa-4e04-8d4c-ee4a49ea0fed)
