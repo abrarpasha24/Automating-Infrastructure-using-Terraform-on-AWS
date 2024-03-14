@@ -4,7 +4,8 @@ Infrastructure as Code(IaC) through Terraform simplifies the process of creating
 In this project, I have utilized Terraform to deploy an architectire on AWS, containin the following services, VPC, Load Balancer, EC2 Instances, Internet Gateway & Subnets.
 
 
-![Screenshot 2024-03-13 185309](https://github.com/abrarpasha24/Automating-Infrastructure-using-Terraform-on-AWS/assets/30976576/99f11b16-be06-4554-8c98-cc19dbd74031)
+![3](https://github.com/abrarpasha24/Automating-Infrastructure-using-Terraform-on-AWS/assets/30976576/6559392d-0bae-47c5-b37f-997997a61e50)
+
 
 
 
